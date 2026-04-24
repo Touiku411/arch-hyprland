@@ -5,6 +5,7 @@ DOT_DIR="$HOME/arch-hyprland"
 
 PKGS_PACMAN=(
     "hyprland"
+    "sddm"
     "kitty"
     "waybar"
     "rofi-wayland"
